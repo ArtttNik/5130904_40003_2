@@ -1,6 +1,7 @@
-#include <iostream>
+﻿#include <iostream>
 
-int main() {
-	std::cout << "nikolaev.artyom" << "\n";
-	return 0;
+int main()
+{
+  std::cout << "nikolaev.artyom" << "\n";
+  return 0;
 }
